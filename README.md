@@ -1,2 +1,2 @@
-# Ecommerce_Website
-Motorola
+# Ecommerce-Website
+MOTOROLA
